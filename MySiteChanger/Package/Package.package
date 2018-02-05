@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0f1909bb-d30b-4c96-bb93-4adeac1856e1" solutionId="0f1909bb-d30b-4c96-bb93-4adeac1856e1" resetWebServer="false" sharePointProductVersion="16.0" name="MySiteChanger" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="adb8361c-87cb-4011-9759-f111232ab76e" />
+    <featureReference itemId="0b611936-749c-4640-af51-356e805005b0" />
+  </features>
+</package>
